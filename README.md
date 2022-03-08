@@ -1,3 +1,7 @@
+![code](https://user-images.githubusercontent.com/66138781/157339444-e6403c5f-0db6-455f-9216-ddd37172219c.png)
+
+![code1](https://user-images.githubusercontent.com/66138781/157339507-04e0eeaa-8b08-4d04-b76c-1ceac520365f.png)
+
 # Hamburger Hazırlama Projesi:
 
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
